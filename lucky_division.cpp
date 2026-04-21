@@ -21,6 +21,6 @@ int main()
             isFound = true;
             break;
         }
-    }
+    }   
     cout << (isFound ? "YES" : "NO") << endl;
 }
